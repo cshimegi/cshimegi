@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @cshimegi
-  - A Software Engineer
+  - A Backend Software Engineer
 - 👀 I’m interested in
-  - Backend Software Engineering
-  - Algorithm
+  - Algorithms
   - System Architecture
-  - Programming Language
+  - Software Architecture
+  - Different Programming Languages
 - 🌱 I’m currently learning
-  - System Architecture
-  - Algorithm
-- 📫 How to reach me ...
+  - System/Software Architecture
+  - Algorithms
+- 📫 How to reach out to me ...
   - Email: cs-himegi@hotmail.com
 
 <!---
